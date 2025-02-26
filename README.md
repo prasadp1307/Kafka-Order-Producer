@@ -67,3 +67,11 @@ bin/kafka-console-consumer.sh --topic orders --from-beginning --bootstrap-server
 ## License
 This project is licensed under the MIT License.
 
+notificationService.js
+![image](https://github.com/user-attachments/assets/ad192e25-7504-47de-929d-be407b0c77d8)
+
+paymentService.js
+![image](https://github.com/user-attachments/assets/d4724085-8f55-48a0-984e-71f0ad65b1c7)
+
+![image](https://github.com/user-attachments/assets/ad3f2ed3-81fc-44dd-bf6c-b4b79db21cdb)
+
